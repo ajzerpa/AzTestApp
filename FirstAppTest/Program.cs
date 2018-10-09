@@ -12,6 +12,10 @@ namespace FirstAppTest
             var entry = Console.ReadLine();
             if (!string.IsNullOrEmpty(entry))
                 entry = "Hello again";
+
+            entry += "Master branch";
+            //Master commit
+
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
