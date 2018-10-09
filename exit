@@ -1,0 +1,29 @@
+[33mcommit b54096a9b80176b9fa0d691438861c8e884c96dc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Armando José Zerpa Bustos <armando.zerpa@masivian.com>
+Date:   Tue Oct 9 12:10:02 2018 -0500
+
+    testing removal
+
+[33mcommit 70045955df2a75747655450bfbeb07684775ac33[m
+Author: Armando José Zerpa Bustos <azerpa@estratec.local>
+Date:   Tue Oct 9 12:01:24 2018 -0500
+
+    third commit. Version 3
+
+[33mcommit 59e4cb5d470c4c3196660aba38bd977438dd3126[m
+Author: Armando José Zerpa Bustos <azerpa@estratec.local>
+Date:   Tue Oct 9 11:42:41 2018 -0500
+
+    test 2 version
+
+[33mcommit 279536a729f20aeeac00107cc8a39f2e41d34a04[m
+Author: Armando José Zerpa Bustos <azerpa@estratec.local>
+Date:   Tue Oct 9 10:51:00 2018 -0500
+
+    Add project files.
+
+[33mcommit dfc64326d0b2a2876c33596f0417b3df03cfdeab[m
+Author: azerpa <azerpa@DESKTOP-FGQ83D3>
+Date:   Tue Oct 9 10:50:57 2018 -0500
+
+    Add .gitignore and .gitattributes.
