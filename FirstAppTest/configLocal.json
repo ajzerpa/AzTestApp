@@ -8,7 +8,7 @@
     "**/platforms"
   ],
   "Mongo": "Localhost:32768",
-  "DefaultTTL": "15",
+  "DefaultTTL": "5",
   "DEV": "local",
   "RabbitMq": "guest:guest@localhost:5272",
   "FailoverCluster":  "testServer"
