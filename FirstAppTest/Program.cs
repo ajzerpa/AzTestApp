@@ -11,7 +11,7 @@ namespace FirstAppTest
             Console.WriteLine("Hello World AZ!!!");
             var entry = Console.ReadLine();
             if (!string.IsNullOrEmpty(entry))
-                entry = "Hello again";
+                entry = "Hello again 24/10";
 
             entry += "Master branch";
             //Master commit
