@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "Mongo": "192.168.1.134:32768",
+  "DefaultTTL": "15",
+  "DEV": "prod",
+  "RabbitMq": "guest:guest@192.168.1.134:5272"
+}
