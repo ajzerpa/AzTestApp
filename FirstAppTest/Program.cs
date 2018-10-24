@@ -23,6 +23,8 @@ namespace FirstAppTest
             Console.WriteLine("Barca - Inter");
             entry = Console.ReadLine();
 
+            Console.WriteLine("All Messages: " + entry);
+
             Console.ReadKey();
             //Comment HERE to conflict
             entry = "";
