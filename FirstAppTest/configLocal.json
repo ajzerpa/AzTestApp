@@ -1,0 +1,12 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "Mongo": "Localhost:32768",
+  "DefaultTTL":  "15"
+}
