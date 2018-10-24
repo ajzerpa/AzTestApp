@@ -16,6 +16,7 @@ namespace FirstAppTest
             entry += "Master branch";
             //Master commit
             Console.WriteLine("GOT");
+            Console.WriteLine("Breaking Bad");
 
             Console.ReadKey();
 
